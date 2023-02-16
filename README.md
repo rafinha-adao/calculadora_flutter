@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Preview
 
-![Preview video](https://github.com/rafinha-adao/calculadora_flutter/tree/main/assets/video_demo.gif)
+<img width="35%" src="./assets/video_demo.gif" alt="Preview video">
